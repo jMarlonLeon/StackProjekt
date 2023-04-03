@@ -1,0 +1,15 @@
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/bin/Debug/net7.0/StackProjekt
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/bin/Debug/net7.0/StackProjekt.deps.json
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/bin/Debug/net7.0/StackProjekt.runtimeconfig.json
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/bin/Debug/net7.0/StackProjekt.dll
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/bin/Debug/net7.0/StackProjekt.pdb
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.csproj.AssemblyReference.cache
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.AssemblyInfoInputs.cache
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.AssemblyInfo.cs
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.csproj.CoreCompileInputs.cache
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.dll
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/refint/StackProjekt.dll
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.pdb
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/StackProjekt.genruntimeconfig.cache
+/Users/marlonjuntorius/Desktop/CsharpProj/StackProjekt/obj/Debug/net7.0/ref/StackProjekt.dll
